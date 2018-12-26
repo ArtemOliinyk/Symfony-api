@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7977098-8d01-4860-a35b-25cf6bd6d3c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ui/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/__tests__/unit/cards/mutations.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/__tests__/unit/cards/mutations.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/components/main/elements/forma/LoginForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/components/main/elements/forma/LoginForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/components/main/elements/forma/RegistrationForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/components/main/elements/forma/RegistrationForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/components/main/elements/popUp/createEl.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/components/main/elements/popUp/createEl.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/components/main/pages/WorkPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/components/main/pages/WorkPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/store/modules/cards.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/store/modules/cards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/store/modules/folder.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/store/modules/folder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/store/modules/popUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/store/modules/popUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/store/modules/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/store/modules/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/store/names/card.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/store/names/card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui/src/system/redirect.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/src/system/redirect.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Portmone/Controller/UserController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="y" value="-4" />
+    <option name="width" value="1225" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Portmone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Portmone" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7977098-8d01-4860-a35b-25cf6bd6d3c4" name="Default Changelist" comment="" />
+      <created>1543914906182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543914906182</updated>
+      <workItem from="1543914908567" duration="204000" />
+      <workItem from="1544004276391" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="265000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-11" width="1227" height="1036" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25360474" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Portmone/Controller/TokenController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Portmone/Entity/FolderEntity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="98" column="18" lean-forward="true" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Portmone/Controller/FolderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="63" column="70" lean-forward="true" selection-start-line="63" selection-start-column="70" selection-end-line="63" selection-end-column="70" />
+          <folding>
+            <element signature="e#43#106#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Portmone/Controller/TransactionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Portmone/Controller/CardController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="65" column="64" lean-forward="true" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Portmone/Controller/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="60" column="63" selection-start-line="60" selection-start-column="63" selection-end-line="60" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
